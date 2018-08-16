@@ -1,0 +1,15 @@
+test_iter: 186
+test_interval: 241
+base_lr: 0.00999999977648
+display: 30
+max_iter: 2410
+lr_policy: "step"
+gamma: 0.10000000149
+momentum: 0.899999976158
+weight_decay: 9.99999974738e-05
+stepsize: 796
+snapshot: 1205
+snapshot_prefix: "snapshot"
+solver_mode: GPU
+net: "train_val.prototxt"
+solver_type: SGD
